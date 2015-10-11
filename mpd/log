@@ -1,0 +1,21 @@
+Oct 10 17:49 : avahi: Service 'Music Player' successfully established.
+Oct 10 17:49 : client: [0] opened from 127.0.0.1:43348
+Oct 10 17:49 : alsa_mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Oct 10 17:52 : client: [0] closed
+Oct 10 17:52 : avahi: Service 'Music Player' successfully established.
+Oct 10 17:52 : client: [0] opened from 127.0.0.1:43368
+Oct 10 17:52 : client: [0] closed
+Oct 10 17:52 : client: [1] opened from 127.0.0.1:43370
+Oct 10 17:55 : client: [1] closed
+Oct 10 18:05 : avahi: Service 'Music Player' successfully established.
+Oct 10 18:14 : avahi: Service 'Music Player' successfully established.
+Oct 10 18:23 : avahi: Service 'Music Player' successfully established.
+Oct 10 18:24 : avahi: Service 'Music Player' successfully established.
+Oct 10 18:26 : avahi: Service 'Music Player' successfully established.
+Oct 10 18:27 : avahi: Service 'Music Player' successfully established.
+Oct 10 18:28 : avahi: Client Disconnected, will reconnect shortly
+Oct 10 18:30 : avahi: Service 'Music Player' successfully established.
+Oct 10 18:41 : avahi: Service 'Music Player' successfully established.
+Oct 10 18:42 : avahi: Client Disconnected, will reconnect shortly
+Oct 10 18:43 : avahi: Service 'Music Player' successfully established.
+Oct 10 18:43 : client: [0] opened from local
