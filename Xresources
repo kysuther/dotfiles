@@ -1,7 +1,7 @@
 Xcursor.theme:    Vanilla-DMZ-AA
 
 
-URxvt.geometry: 100x27
+URxvt.geometry: 119x29
 !urxvt color scheme:
 
 URxvt.depth: 32
@@ -67,3 +67,11 @@ URxvt.tabbed.tab-bg: 8
 URxvt.tabbed.autohide:  yes
 URxvt.tabbed.new-button:  no
 URxvt.tabbed.title: no
+
+
+! ROFI THEME
+rofi.color-enabled: true
+rofi.color-window: #2b2b2b, #2b2b2b, #000000
+rofi.color-normal: #2b2b2b, #dedede, #2b2b2b, #5e5e5e, #dedede
+rofi.color-active: #2b2b2b, #3c92bf, #2b2b2b, #3c92bf, #dedede
+rofi.color-urgent: #2b2b2b, #dc322f, #2b2b2b, #dc322f, #dedede
