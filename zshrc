@@ -13,7 +13,7 @@ compinit
 # End of lines added by compinstall
 
 autoload -U colors && colors
-PROMPT="$fg_bold[cyan]%1~> $reset_color"
+PROMPT="%{$fg_bold[cyan]%}%1~> %{$reset_color%}"
 
 alias ls='ls --color=auto'
 alias la='ls -A'
